@@ -30,6 +30,9 @@ Some of the possible applications of the ArduCAN-HS shield together with Arduino
   - Lines TX0, RX0, TX1, RX1.
 * 3-terminal connection strips (CAN-H, CAN-L and GND).
 
+The Arduino DUE pins uses by the ArduCAN-HS shield are shown in the figure below:
+![alt text](/Docs/img/DUE_used_pins.jpg)
+
 ### Installation
 Download the ZIP file and extract it to any location of your computer. Rename the extracted folder to ArduCAN-HS. Copy the ArduCAN-HS folder to your Arduino libraries directory (for example ... \ Documents \ Arduino \ libraries). You will now have the library available and you can open an example by accessing File -> Examples.
 
