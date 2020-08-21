@@ -33,5 +33,9 @@ Some of the possible applications of the ArduCAN-HS shield together with Arduino
 ### Installation
 Download the ZIP file and extract it to any folder. Rename the extracted folder to ArduCAN-HS. Copy the ArduCAN-HS folder to your Arduino libraries directory (for example ... \ Documents \ Arduino \ libraries). You will now have the library available and you can open an example by accessing File -> Examples.
 
+### Programming
+The installed library for ArduCAN-HS is based on the CAN drivers published by Collin Kidder at https://github.com/collin80/due_can (see the "howtouse.txt" file to learn how to use it) The "due_can" library is also available on the Arduino website: https://www.arduino.cc/reference/en/libraries/duecan/.
+
 ### More info
-For more information or to know how to obtain the ArduCAN-HS board, please email me at macorchero@gmail.com
+For more information or to know how to obtain the ArduCAN-HS board, please email me at macorchero@gmail.com.
+More examples will be added soon.
